@@ -9,6 +9,7 @@ public class AxisBank {
 	public void fixed() {
 		System.out.println("Fixed 8%");
 	}
+ 
 
     public void tc1() {
     	
@@ -19,5 +20,10 @@ public class AxisBank {
 	public void tc2() {
 		System.out.println("created by bala");
 	}
+	  public void tc3() {
+	    	System.out.println("sams code");
+
+
+	   }
 
 }
