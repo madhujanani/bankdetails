@@ -9,5 +9,8 @@ public class AxisBank {
 	public void fixed() {
 		System.out.println("Fixed 8%");
 	}
+   public void tc3() {
+    	System.out.println("sams code");
 
+   }
 }
